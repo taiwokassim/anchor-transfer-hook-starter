@@ -1,0 +1,7 @@
+
+[programs.devnet]
+transfer_hook_whitelist = "REPLACE_WITH_YOUR_PROGRAM_ID"
+
+[provider]
+cluster = "devnet"
+wallet = "~/.config/solana/id.json"

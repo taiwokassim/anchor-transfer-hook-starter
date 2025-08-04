@@ -1,0 +1,10 @@
+
+{
+  "name": "Solana Anchor Dev",
+  "build": {
+    "dockerfile": "Dockerfile"
+  },
+  "settings": {},
+  "extensions": ["ms-vscode.cpptools", "rust-lang.rust-analyzer"],
+  "remoteUser": "vscode"
+}
